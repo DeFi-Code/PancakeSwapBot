@@ -1,5 +1,5 @@
 import config
-import time
+import times
 
 
 def buyTokens(**kwargs):
