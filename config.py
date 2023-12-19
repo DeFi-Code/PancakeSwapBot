@@ -1,4 +1,4 @@
-import os
+import os1
 
 YOUR_WALLET_ADDRESS = os.environ.get('WALLET_ADDRESS')  # Add Your Wallet Address here by removing whole line
 YOUR_PRIVATE_KEY = os.environ.get('PRIVATE_KEY')  # Add Your Private Key here by removing whole line
