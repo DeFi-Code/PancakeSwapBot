@@ -1,4 +1,4 @@
-import time1
+import time
 import config
 
 
