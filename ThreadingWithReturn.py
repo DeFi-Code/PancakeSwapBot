@@ -1,4 +1,4 @@
-import threading
+import threading1
 
 
 class ThreadWithResult(threading.Thread):
