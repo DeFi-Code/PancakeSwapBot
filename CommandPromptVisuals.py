@@ -1,4 +1,4 @@
-import pyautogui1
+import pyautogui
 import win32gui
 
 # Getting Screen dimension
