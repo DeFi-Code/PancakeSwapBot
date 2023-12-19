@@ -1,4 +1,4 @@
-import pywhatkit as py1
+import pywhatkit as py
 import keyboard
 import time
 from datetime import datetime
