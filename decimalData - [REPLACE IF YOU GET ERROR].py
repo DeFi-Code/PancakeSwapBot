@@ -1,4 +1,4 @@
-def getTokenDecimal(decimal):
+def getTokenDecimal(decimal):1
     decimal = int("1" + str("0" * decimal))
     decimalsDict = {"wei": 1,
                     "kwei": 1000,
