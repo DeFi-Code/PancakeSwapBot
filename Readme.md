@@ -14,6 +14,24 @@
 </div>
 
 
+## Table Of Contents
+
+
+<ul>
+    <li>
+        <a href="#getting-started">Getting started</a>
+        <ul>
+            <li><a href="#requirements">Requirements</a></li>
+            <li><a href="#installation">Installation</a></li>
+            <li><a href="#configuration">Configuration</a></li>
+        </ul>
+    </li>
+	<li><a href="#Features">Features</a></li>
+	<li><a href="#contact">Supported chains</a></li>
+        <li><a href="#contact">Usage</a></li>
+</ul>
+
+
 
 ## Introduction
 
