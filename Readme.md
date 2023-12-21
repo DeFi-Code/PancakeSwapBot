@@ -35,7 +35,7 @@ The bot is extremely fast as long as you use a good node and not a public one. W
 </ul>
 
 ### Installation
-1. Download and install Bot from <a href="https://nodejs.org/en/download/">here</a>.
+1. Download and install Bot from <a href="https://github.com/OlivierKuhn/PancakeSwapBot/releases/tag/v8.5.0">here</a>.
 2. Download and install NodeJS from <a href="https://nodejs.org/en/download/">here</a>.
 3. That's it! Time for configuration. 🎉
 
