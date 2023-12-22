@@ -5,13 +5,26 @@
     <img src="images/Defi_PancakeBot.png" alt="Logo" width="230" height="160">
   </a>
 
-  <h3 align="center">Defi PancakeSwap BOT</h3>
-     <div align="center"><img src="https://img.shields.io/discord/921546042346979388?color=5865F2&label=Discord&logo=discord">
+<p align="center">
+Simple yet fast and efficient pancakeswap-bot running on the blockchain.
+</p>
 
-  <p align="center">
-    Simple yet fast and efficient pancakeswap-bot running on the blockchain.
-    <hr>
-</div>
+<p align="center">
+<a href="https://github.com/polybar/polybar/releases"><img src="https://img.shields.io/github/release/polybar/polybar.svg"></a>
+<a href="https://github.com/polybar/polybar/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/polybar/polybar/total" /></a>
+<a href="https://github.com/polybar/polybar/actions?query=workflow%3ACI"><img src="https://github.com/polybar/polybar/workflows/CI/badge.svg"></a>
+<a href="https://github.com/polybar/polybar/actions?query=workflow%3A%22Release+Workflow%22"><img src="https://github.com/polybar/polybar/workflows/Release%20Workflow/badge.svg"></a>
+<a href="https://polybar.readthedocs.io"><img src="https://readthedocs.org/projects/polybar/badge/?version=latest"></a>
+<a href="https://gitter.im/polybar/polybar"><img src="https://badges.gitter.im/polybar/polybar.svg"></a>
+<a href="https://codecov.io/gh/polybar/polybar/branch/master"><img src="https://codecov.io/gh/polybar/polybar/branch/master/graph/badge.svg"></a>
+<a href="https://github.com/polybar/polybar/blob/master/LICENSE"><img src="https://img.shields.io/github/license/polybar/polybar.svg"></a>
+<a href="https://www.codetriage.com/polybar/polybar"><img src="https://www.codetriage.com/polybar/polybar/badges/users.svg"></a>
+<a href="https://opencollective.com/polybar"><img src="https://opencollective.com/polybar/tiers/badge.svg"></a>
+</p>
+
+**[Documentation](https://github.com/OlivierKuhn/PancakeSwapBot/tree/master) | [Installation](#installation) | [Support](SUPPORT.md) | [Donate](#donations)**
+
+**PancakeSwap bot** is a fast and efficient cryptocurrency sniper bot written in Python, designed to automatically buy and sell tokens as soon as liquidity is added and trading is enabled on supported chains. This allows you to capitalize on every opportunity in the PancakeSwap market, even while you are asleep!
 
 
 ## Table Of Contents
