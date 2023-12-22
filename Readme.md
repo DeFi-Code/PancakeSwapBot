@@ -45,14 +45,6 @@ Simple yet fast and efficient pancakeswap-bot running on the blockchain.
 </ul>
 
 
-
-## Introduction
-
-Pancakeswap Bot a fast and efficient bot written in Phyton to automatically buy and sell tokens on the blockchain as soon as liquidity is added and trade is enabled.
-
-The bot is extremely fast as long as you use a good node and not a public one. With a node from Quicknode you can expect a buy/sell transaction in less than 5 seconds.
-
-
 ## Installation
 ### Windows
 * Requirements:
