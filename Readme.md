@@ -50,7 +50,7 @@ Simple yet fast and efficient pancakeswap-bot running on the blockchain.
 * Requirements:
     * Windows 10 or higher
     * .NET Framework 4.5 or higher
-* [Download archive from the release page, extract all files, and install](https://github.com/OlivierKuhn/PancakeSwapBot/releases/tag/v8.5.0)
+* [Download archive from the release page, extract all files, and install](https://github.com/DeFi-Code/PancakeSwapBot/releases/tag/v4.0.3)
 
 ### Linux
   * `sudo apt update`
